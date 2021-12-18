@@ -26,7 +26,7 @@
 P.S. I like 🎉OSINT!!🧨 
 </p> 
 
-<h4 align="left">Some Interest Stats:</h4> 
+<h4 align="left">Some Interesting Stats:</h4> 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mixaslfc&show_icons=true&theme=radical&locale=en&hide_border=true" alt="mixaslfc" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mixaslfc&show_icons=true&theme=radical&hide_border=true&locale=en" alt="mixaslfc" /></p>
 
