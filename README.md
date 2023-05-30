@@ -2,7 +2,8 @@
 <h3 align="left">a lazy programmer also known as Pull Stack Developer</h3>
 <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on [Process ISO & GRC Software](https://isosolution.net/)
+- 🔭 I’m previous working on [Process ISO & GRC Software](https://isosolution.net/)
+-    I'm currently working on: [MyInvoice](https://www.myinvoice.gr/),[BusinessCloud ERP](https://www.businesscloud.gr/),[QRcube](https://qrcube.gr/),[Mydata Cloud](https://www.mydatacloud.gr/) 
 - 🎓 I’m currently enrolled in the Masters Program “Informatics“ in the University of Piraeus
 - 📫 How to reach me: **mixaslfc@protonmail.com**
 - 🪅 Accepting gifts for 🐗 Kenji & 🦇 Koulouri
