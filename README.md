@@ -8,6 +8,8 @@
 - 📫 How to reach me: **mixaslfc@protonmail.com**
 - 🪅 Accepting gifts for 🐗 Kenji & 🦇 Koulouri
 
+- Uploading soon Frondend project for p2p car rental/ Python ML for regoqnize dog breeds / Laravel project for APIs / C# uni project/ Small py tools 
+
 
 <h3 align="left">Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40px"></h3> 
 <p align="left">
